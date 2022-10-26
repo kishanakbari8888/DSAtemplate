@@ -1,0 +1,22 @@
+{
+    "id": "String",
+    "code": "String",
+    "A": {
+        "id": "String",
+        "type": "String",
+        "to": "URI",
+        "from": "URI",
+        "value": {
+            "0": {
+                "type": "String",
+                "amout": "Integer",
+                "parts": {
+                    "0": {
+                        "am": "Interger",
+                        "val": "Interger"
+                    }
+                }
+            }
+        }
+    }
+}
